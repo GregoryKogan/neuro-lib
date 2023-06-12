@@ -1,5 +1,9 @@
 # GregoNeuronLib
 
+<p align="center">
+  <img width="716" alt="image" src="https://github.com/GregoryKogan/GregoNeuronLib/assets/60318411/07c30d8f-414b-40d9-aa8c-5aec1c473419">
+<p/>
+
 This is my interpretation of The Coding Train's Neural Network Toy library.
 I added a few features for myself. This lib supports many layers in networks.
 Also I improved mechanism for saving trained neural network as JSON file and
