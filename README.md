@@ -1,4 +1,4 @@
-# GregoNeuronLib
+# neuro-lib
 
 <p align="center">
   <img width="716" alt="image" src="https://github.com/GregoryKogan/GregoNeuronLib/assets/60318411/07c30d8f-414b-40d9-aa8c-5aec1c473419">
